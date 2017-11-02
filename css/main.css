@@ -29,7 +29,6 @@
 
 .navigator {
   /*margin-top: 70px;*/
-  outline: 1px solid red ;
   position: fixed;
   width: 100%;
   height: 115px;
